@@ -4,7 +4,9 @@
     "displayName": "Visual Effect Graph Extensions",
     "description": "Some extensions for the Unity Visual Effect Graph, mostly to do with audio visualization",
     "unity": "2019.2",
-    "dependancies": {"com.unity.visualeffectgraph"},
+    "dependancies": {
+        "com.unity.visualeffectgraph": "7.1.2"
+    },
     "keywords": ["library","vfx","utility"],
     "author": {
         "name": "Aaron Static",

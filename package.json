@@ -1,0 +1,14 @@
+{
+    "name": "com.aaronstatic.vfx-extensions",
+    "version": "1.0.0",
+    "displayName": "Visual Effect Graph Extensions",
+    "description": "Some extensions for the Unity Visual Effect Graph, mostly to do with audio visualization",
+    "unity": "2019.2",
+    "dependancies": {"com.unity.visualeffectgraph"},
+    "keywords": ["library","vfx","utility"],
+    "author": {
+        "name": "Aaron Static",
+        "email": "aaronstatic@gmail.com",
+        "url": "http://facebook.com/aaronstatic"
+    }
+}
